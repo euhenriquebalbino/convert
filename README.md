@@ -14,13 +14,13 @@ O projeto apresenta uma interface objetiva para conversão de moedas, com formul
 
 ## 📂 Estrutura do projeto
 
-.
-├── index.html
-├── style.css
-├── main.js
-└── img/
-    ├── bg.png
-    └── ícones e logomarca
+. <br>
+├── index.html <br>
+├── style.css <br>
+├── main.js <br>
+└── img/ <br>
+    ├── bg.png <br>
+    └── ícones e logomarca <br>
 
 ## 🧩 Funcionalidades
 
